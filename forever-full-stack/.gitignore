@@ -1,0 +1,13 @@
+.env
+
+/node_modules
+/.pnp
+.pnp.js
+/.pnp.cjs
+/.pnp.loader.mjs
+/.pnp.loader.js
+/.pnp.loader.cjs
+/.pnp.loader.ts
+/.pnp.loader.ts.map
+
+
